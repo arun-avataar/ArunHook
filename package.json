@@ -1,0 +1,11 @@
+{
+  "name": "arun-hook",
+  "version": "1.0.0",
+  "description": "this is arun's hook",
+  "main": "useArun.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
